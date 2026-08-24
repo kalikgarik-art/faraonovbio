@@ -1,6 +1,0 @@
-{
-  "name": "Bio Link Site Builder & Profile",
-  "description": "A customizable, aesthetic bio link website template inspired by fakecrime.bio and guns.lol with live config, background presets, snow/particles, audio player, Discord status integration, and domain setup guide.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
